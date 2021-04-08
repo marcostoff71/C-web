@@ -1,0 +1,74 @@
+﻿@page "/film";
+@page "/film/{id:int}"
+
+@using BlazorCrudModel;
+@using System.Threading.Tasks;
+@using Interfaces;
+
+@inject IFilmServices fileServices;
+@inject NavigationManager mana
+
+<h2 style="text-align:center;font-family:sans-serif; color:rgb(29 159 208)">Detalles de film</h2>
+
+<EditForm Model="f1">
+    <table class="table">
+        <tr>
+            <td>Titulo</td>
+            <td><input type="text" @bind="f1.Title" /></td>
+        </tr>
+        <tr>
+            <td>Director</td>
+            <td><input type="text" @bind="f1.Director" /></td>
+        </tr>
+        <tr>
+            <td>Fecha de lanzamiento</td>
+            <td><input class="form-control " type="datetime" @bind="f1.ReleaseData" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center;">
+                <input class="btn btn-success" type="submit" value="Save" @onclick="saveFilm" />
+                <input class="btn btn-danger" type="button" value="Cancel" @onclick="Cancel" />
+            </td>
+        </tr>
+    </table>
+
+</EditForm>
+
+
+@code {
+
+
+    Film f1 = new Film();
+
+    [Parameter]
+    public int id { get; set; }
+
+    protected async Task saveFilm()
+    {
+        if (f1.Title != "" && f1.Director != "" && f1.ReleaseData > DateTime.MinValue)
+        {
+            await fileServices.SaveFilm(f1);
+            mana.NavigateTo("/filmList");
+        }
+
+    }
+    protected async override Task OnInitializedAsync()
+    {
+        if (id == 0)
+        {
+            f1.ReleaseData = DateTime.Now;
+
+        }
+        else
+        {
+            f1 = await fileServices.GetDetails(id);
+
+        }
+    }
+
+    protected void Cancel()
+    {
+        mana.NavigateTo("/filmList");
+    }
+
+}

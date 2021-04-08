@@ -1,0 +1,12 @@
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\bin\Debug\netcoreapp3.1\BlazorCrudDataDapper.deps.json
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\bin\Debug\netcoreapp3.1\BlazorCrudDataDapper.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\bin\Debug\netcoreapp3.1\BlazorCrudDataDapper.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\obj\Debug\netcoreapp3.1\BlazorCrudDataDapper.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\obj\Debug\netcoreapp3.1\BlazorCrudDataDapper.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\obj\Debug\netcoreapp3.1\BlazorCrudDataDapper.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\obj\Debug\netcoreapp3.1\BlazorCrudDataDapper.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\obj\Debug\netcoreapp3.1\BlazorCrudDataDapper.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\obj\Debug\netcoreapp3.1\BlazorCrudDataDapper.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\bin\Debug\netcoreapp3.1\BlazorCrudModel.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\bin\Debug\netcoreapp3.1\BlazorCrudModel.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudDataDapper\obj\Debug\netcoreapp3.1\BlazorCrudDataDapper.csproj.CopyComplete

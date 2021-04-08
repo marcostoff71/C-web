@@ -1,0 +1,58 @@
+﻿@page "/filmList";
+@using BlazorCrudModel;
+@using Interfaces;
+
+@inject IFilmServices fileservi;
+
+
+@if (Films == null)
+{
+   
+}
+else
+{
+
+    <table class="table table-striped table-hover">
+        <thead class="thead-dark">
+            <tr>
+                <th>Titulo</th>
+                <th>Director</th>
+                <th>Release data</th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Films)
+                {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@item.Director</td>
+                    <td>@item.ReleaseData</td>
+                    <td><a href="film/@item.Id"><b class="btna" style=".btna:hover{color:red;}">Editar</b></a></td>
+                    <td><a href="delete/@item.Id"><b>Borrar</b></a></td>
+                </tr>
+                }
+	
+        </tbody>
+    </table>
+}
+
+@code {    
+    
+    
+    private IEnumerable<Film> Films;
+    protected override async Task OnInitializedAsync()
+    {
+        try
+        {
+            Films = await fileservi.GetAllFilms();
+        }
+        catch (Exception e)
+        {
+            throw;
+        }
+
+    }
+        
+}

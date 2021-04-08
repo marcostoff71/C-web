@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "p6LNnlSbaSB1jdf4hpHbnm6bRqMWNAAneevZVdymQjIGakc4ujA1+YaRWhl9NCShZLu1vvjfxQiE90CoRLYoMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lenovo\\Cursos\\C#\\C# Web\\Blazor\\BlazorCrud\\BlazorCrudModel\\BlazorCrudModel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lenovo\\.nuget\\packages\\bootstrap\\4.6.0\\bootstrap.4.6.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\jquery\\3.0.0\\jquery.3.0.0.nupkg.sha512",
+    "C:\\Users\\lenovo\\.nuget\\packages\\popper.js\\1.16.1\\popper.js.1.16.1.nupkg.sha512"
+  ],
+  "logs": []
+}

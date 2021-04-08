@@ -1,0 +1,52 @@
+﻿@page "/delete/{id:int}"
+@using BlazorCrud.Interfaces;
+@using BlazorCrudModel; 
+@inject IFilmServices fileServices;
+@inject NavigationManager mana
+
+<h4 class="text-warning">Estas seguro de borrar?</h4>
+
+    <table class="table">
+        <tr>
+            <td>Titulo</td>
+            <td><input type="text" @bind="f1.Title" /></td>
+        </tr>
+        <tr>
+            <td>Director</td>
+            <td><input type="text" @bind="f1.Director" /></td>
+        </tr>
+        <tr>
+            <td>Fecha de lanzamiento</td>
+            <td><input class="form-control " type="datetime" @bind="f1.ReleaseData" /></td>
+        </tr>
+        <tr>
+            <td colspan="2" style="text-align:center;">
+                <input class="btn btn-danger" type="submit" value="Eliminar" @onclick="Eliminar" />
+                <input class="btn btn-warning" type="button" value="Cancel" @onclick="Cancelar" />
+            </td>
+        </tr>
+    </table>
+
+
+@code {
+    [Parameter]
+    public int id { get; set; }
+
+    Film f1 = new Film();
+    protected async override Task OnInitializedAsync()
+    {
+        f1 = await fileServices.GetDetails(id);
+    }
+    private async void Eliminar()
+        {
+        await fileServices.DeleteFilm(id);
+        mana.NavigateTo("/filmList");
+        }
+    private void Cancelar()
+        {
+        mana.NavigateTo("/filmList");
+        }
+
+
+
+}

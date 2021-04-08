@@ -1,0 +1,9 @@
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\bin\Debug\netcoreapp3.1\BlazorCrudModel.deps.json
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\bin\Debug\netcoreapp3.1\BlazorCrudModel.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\bin\Debug\netcoreapp3.1\BlazorCrudModel.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\obj\Debug\netcoreapp3.1\BlazorCrudModel.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\obj\Debug\netcoreapp3.1\BlazorCrudModel.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\obj\Debug\netcoreapp3.1\BlazorCrudModel.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\obj\Debug\netcoreapp3.1\BlazorCrudModel.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\obj\Debug\netcoreapp3.1\BlazorCrudModel.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\BlazorCrud\BlazorCrudModel\obj\Debug\netcoreapp3.1\BlazorCrudModel.csprojAssemblyReference.cache
