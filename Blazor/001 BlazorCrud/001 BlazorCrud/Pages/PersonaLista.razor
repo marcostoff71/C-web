@@ -1,0 +1,92 @@
+﻿@page "/listaPersonas"
+@inject IServicioPersona Servicio
+@inject NavigationManager mana
+@inject IJSRuntime runti;
+<h3>PersonaLista</h3>
+
+
+<div>
+    <button class="btn btn-success" @onclick="Agregar">Agregar</button>
+</div>
+
+@if (lstPersonas.Count == 0)
+{
+    <p class="text-center text-dark">Base de datos vacia</p>
+}
+else
+{
+    <div class="table-responsive">
+
+        <table class="table table-hover" style="margin-top:20px;">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Nombre</th>
+                    <th>Apellido Materno</th>
+                    <th>Apellido Paterno</th>
+                    <th>Edad</th>
+                    <th>Fecha de nacimiento</th>
+                    <th></th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (Persona p in lstPersonas)
+                {
+                    <tr>
+                        <td>@p.Nombre</td>
+                        <td>@p.ApellidoMaterno</td>
+                        <td>@p.ApellidoPaterno</td>
+                        <td>@p.Edad</td>
+                        <td>@p.FechaNacimiento</td>
+                        <td><a class="btn btn-warning" href="/PersonaDetalles/@p.Id">Editar</a></td>
+                        <td><button class="btn btn-danger" @onclick="(()=>Eliminar(p.Id))">Eliminar</button></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+}
+
+@code {
+
+    private List<Persona> lstPersonas = new List<Persona>();
+    protected async override Task OnInitializedAsync()
+    {
+        await Refrescar();
+    }
+    private async Task Refrescar()
+    {
+        lstPersonas = await Servicio.ObtenerPersonas();
+    }
+    private void Agregar()
+    {
+        mana.NavigateTo("/PersonaDetalles");
+    }
+    private async void Eliminar(int id)
+    {
+
+
+        if (await JSExtension.PreguntarBorrar(runti, "Borrar", "¿Deseas Borras?", IconosSeet.question))
+        {
+
+            bool re=await Servicio.EliminarPersona(id);
+            if (re)
+            {
+
+                object d = await JSExtension.Exito(runti, "Borrado", "Borrado correctamente", IconosSeet.success);
+
+                if (d == null)
+                {
+                    mana.NavigateTo("/listaPersonas", true);
+                }
+
+            }
+
+        }
+        else
+        {
+
+        }
+        //await runti.InvokeAsync<bool>("preguntaBorrar", "Hola","asas");
+    }
+}

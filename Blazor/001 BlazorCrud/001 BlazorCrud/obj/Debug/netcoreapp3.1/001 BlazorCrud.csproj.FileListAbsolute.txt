@@ -1,0 +1,95 @@
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.csprojAssemblyReference.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.AssemblyInfoInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.AssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.RazorComponent.input.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.RazorComponent.output.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.exe
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.deps.json
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.runtimeconfig.json
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.runtimeconfig.dev.json
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.Views.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\001 BlazorCrud.Views.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\001 BlazorCrud.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.TagHelpers.input.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.TagHelpers.output.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.RazorCoreGenerate.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\App.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\Counter.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\Index.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\_Imports.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.RazorAssemblyInfo.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.RazorAssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\staticwebassets\001 BlazorCrud.StaticWebAssets.Manifest.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\staticwebassets\001 BlazorCrud.StaticWebAssets.xml
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\scopedcss\bundle\001 BlazorCrud.styles.css
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.RazorTargetAssemblyInfo.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.RazorTargetAssemblyInfo.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.Views.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.genruntimeconfig.cache
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\001 BlazorCrud.csproj.CopyComplete
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\PersonaDetalles.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\PersonaLista.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\PersonaDetalles.razor.g.cs
+C:\Users\lenovo\Cursos\C#\C# Web\Blazor\001 BlazorCrud\001 BlazorCrud\obj\Debug\netcoreapp3.1\Razor\Pages\PersonaLista.razor.g.cs

@@ -113,16 +113,17 @@ using BlazorCrudModel;
     protected async override Task OnInitializedAsync()
     {
         f1 = await fileServices.GetDetails(id);
+        if(f1==null) mana.NavigateTo("/filmList");
     }
     private async void Eliminar()
-        {
+    {
         await fileServices.DeleteFilm(id);
         mana.NavigateTo("/filmList");
-        }
+    }
     private void Cancelar()
-        {
+    {
         mana.NavigateTo("/filmList");
-        }
+    }
 
 
 

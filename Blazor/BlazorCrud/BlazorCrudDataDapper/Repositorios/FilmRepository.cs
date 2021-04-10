@@ -49,7 +49,7 @@ namespace BlazorCrudDataDapper.Repositorios
             string query = @"SELECT * FROM Films WHERE Id=@id";
 
 
-            var d = await db.QueryFirstAsync<Film>(query,new { id});
+            var d = await db.QueryFirstOrDefaultAsync<Film>(query,new { id});
 
             return d;
         }
